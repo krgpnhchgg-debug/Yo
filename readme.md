@@ -1,4 +1,4 @@
-	<div align="center">
+g	<div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
@@ -9,7 +9,8 @@
 		<br>
 		<h2>
 			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
-			<br>
+			<mcnfmr
+tlboclrmckckforlr
 			<sup>Elevate your Mac experience</sup>
 		</h2>
 	</div>
